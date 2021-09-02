@@ -84,7 +84,7 @@
     "semver": "5.x.x",
     "send": "0.16.x",
     "socks-proxy-agent": "^5.0.0",
-    "tar": "4.4.8",
+    "tar": "4.4.18",
     "torrentcollection2": "0.0.9",
     "trakt.tv": "7.x.x",
     "trakt.tv-images": "5.x.x",
